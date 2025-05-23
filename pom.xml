@@ -68,6 +68,14 @@
 <!--		</dependency>-->
 	</dependencies>
 
+
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<url>https://maven.pkg.github.com/SunilKumar-K/Interview-Scheduler-API</url>
+		</repository>
+	</distributionManagement>
+
 	<build>
 		<plugins>
 			<plugin>
