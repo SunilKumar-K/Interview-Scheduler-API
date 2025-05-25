@@ -26,6 +26,10 @@ replay_pid*
 
 *.idea
 
-application.yml
+**/application.yml
+
 
 !*.yml
+
+target/
+
